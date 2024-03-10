@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @morimoto124
+- 👋 Hi, I’m Eduardo!
 - 👀 I’m interested in Backend, Learn and Practice.
 - 🌱 I’m currently learning HTML, CSS and Javascript.
 - 💞️ I’m looking to collaborate on new projects in my area.
